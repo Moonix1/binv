@@ -1,0 +1,9 @@
+[package]
+name = "binv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+env_logger = "*"
+log = "*"
+colored = "*"
