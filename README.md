@@ -1,2 +1,2 @@
 # binv
-a very simple binary/hex file viewer
+a very simple safe binary/hex file viewer written in rust.
